@@ -1,0 +1,27 @@
+* {
+    font-family: 'Kalam', cursive;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    background: darkgray;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+p {
+    padding-bottom: 20px;
+}
